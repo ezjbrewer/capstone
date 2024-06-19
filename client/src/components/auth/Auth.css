@@ -1,0 +1,31 @@
+.login-card {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 25%;
+    padding: 50px;
+    background-color: cornflowerblue;
+
+}
+
+.login-page {
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.login-btn-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.login-btn {
+    border: 2px solid black;
+    border-radius: 25%;
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    margin-bottom: 20px;
+}
